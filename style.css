@@ -1,0 +1,50 @@
+body
+{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+
+form
+{
+    border:1px solid rgba(2, 69, 7, 0.932);
+    width:45%;
+
+
+    text-align:left;
+    margin-left:250px;
+}
+
+
+
+
+.ml
+
+{
+
+
+    margin-left:140px;
+    margin-bottom:50px;
+}
+
+.divya
+{
+    color: rgb(255, 0, 149);
+}
+
+.divya label
+{
+    color: blueviolet;
+}
+
+.diya 
+{
+    color: rgba(219, 163, 8, 0.882);
+}
+
+.dia button
+{
+    background-color: darkgreen;
+    color: white;
+}
